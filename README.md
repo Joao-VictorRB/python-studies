@@ -71,10 +71,10 @@ Os conteúdos incluem:
 ```text
 python-studies/
 │
-├── World1/
-├── World2/
-├── World3/
-└── DataStructure/
+├── world-1/
+├── world-2/
+├── world-3/
+└── data-structure/
 ```
 
 ---
